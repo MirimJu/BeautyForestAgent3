@@ -88,10 +88,10 @@
             // rtbText
             // 
             this.rtbText.BackColor = System.Drawing.SystemColors.Window;
-            this.rtbText.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.rtbText.Dock = System.Windows.Forms.DockStyle.Top;
             this.rtbText.Location = new System.Drawing.Point(0, 25);
             this.rtbText.Name = "rtbText";
-            this.rtbText.Size = new System.Drawing.Size(485, 294);
+            this.rtbText.Size = new System.Drawing.Size(485, 231);
             this.rtbText.TabIndex = 3;
             this.rtbText.Text = resources.GetString("rtbText.Text");
             // 
